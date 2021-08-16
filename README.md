@@ -1,4 +1,5 @@
 # Project-OnMars-Process
+[![codecov](https://codecov.io/gh/GiovanniHessel94/project-on-mars-process/branch/main/graph/badge.svg?token=JU6D35GUD5)](https://codecov.io/gh/GiovanniHessel94/project-on-mars-process)
 
 O projeto OnMars foi desenvolvido para a conclusão de um desafio de conhecimentos gerais sobre o desenvolvimento back end e para colocar em prática alguns dos conhecimentos adquiridos no curso [Ignite da Rocketseat](https://rocketseat.com.br/ignite).
 
